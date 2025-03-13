@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.scoreHome {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+    
+}
+
+.guestScore {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background: none;
+    padding: 6px;
+    
+}
+
+
+button:hover {
+    background-color:#F94F6D;
+}
+
+
+
